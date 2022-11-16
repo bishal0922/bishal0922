@@ -6,7 +6,8 @@
 
 👨‍🎓 Computer Science at University of Texas at Arlington  
 🚧 **Current Project:** [ReactJS Review](https://github.com/bishal0922/reactjs-review)
-</br>🚧 **Current Project:** [L-N-eetcode](https://github.com/bishal0922/-l-n-eetcode)
+</br>
+🚧 **Leetcode Notes:** [L-N-eetcode](https://github.com/bishal0922/-l-n-eetcode)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal0922&layout=compact)
