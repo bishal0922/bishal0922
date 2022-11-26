@@ -1,5 +1,5 @@
 <!-- https://img.shields.io/static/v1?label=LinkedIN&message=%20&color=blue&logo=linkedin -->
-[![LinkedIN](https://img.shields.io/static/v1?label=LinkedIN&message=%20&color=blue&logo=linkedin)](ahref="https://www.linkedin.com/in/bishal0922/" ) 
+[![LinkedIN](https://img.shields.io/static/v1?label=LinkedIN&message=%20&color=blue&logo=linkedin)](https://www.linkedin.com/in/bishal0922/) 
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=green)](https://www.bishalgiri.com/)
 
 
