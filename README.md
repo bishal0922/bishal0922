@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=green)](https://www.bishalgiri.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=bishal0922&color=lightgrey)
 
-
+been lazy but on the grind soon
 
 👨‍🎓 Computer Science at University of Texas at Arlington  
 🚧 **Current Project:** [ReactJS Review](https://github.com/bishal0922/reactjs-review) </br>
