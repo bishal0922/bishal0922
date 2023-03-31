@@ -6,10 +6,6 @@
 been lazy but on the grind soon
 
 👨‍🎓 Computer Science at University of Texas at Arlington  
-🚧 **Current Project:** [ReactJS Review](https://github.com/bishal0922/reactjs-review) </br>
-🚧 **Current Project:** [AppKeep](https://github.com/bishal0922/appkeep)
-</br>
-🚧 **Leetcode Notes:** [L-N-eetcode](https://github.com/bishal0922/-l-n-eetcode)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishal0922&show_icons=true&theme=github_dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal0922&layout=compact)
