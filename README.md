@@ -6,7 +6,7 @@
 👨‍🎓 Computer Science at University of Texas at Arlington  
 
 Portfolio 
-vvvvvvvvv
+<br>
 bishal.us
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=bishal0922&show_icons=true&theme=github_dark)  -->
